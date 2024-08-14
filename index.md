@@ -1,6 +1,4 @@
-[https://img.shields.io/github/commit-activity/:interval/MelaniePaquin/skills-communicate-using-markdown](https://img.shields.io/github/last-commit/MelaniePaquin/skills-communicate-using-markdown
-)
-
+https://img.shields.io/github/last-commit/MelaniePaquin/skills-communicate-using-markdown
 
 # Header 1
 ## Header 2
