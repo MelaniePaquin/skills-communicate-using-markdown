@@ -1,4 +1,4 @@
-https://img.shields.io/github/last-commit/MelaniePaquin/skills-communicate-using-markdown
+![GitHub last commit](https://img.shields.io/github/last-commit/%3Cimg%20src%3D%E2%80%9DURL%E2%80%9D%20alt%3D%E2%80%9DAlt%20caption%E2%80%9D%20width%3D%E2%80%9D100%E2%80%9D%20height%3D%E2%80%9D100%E2%80%9D%3E/skills-communicate-using-markdown)
 
 # Header 1
 ## Header 2
